@@ -34,7 +34,7 @@ h6 {
 
 p {
 	font-family: var(--main-font-secondary);
-	color: var(--main-color-black);
+	color: var(--main-color-dark2);
 }
 
 .text_highlight {
